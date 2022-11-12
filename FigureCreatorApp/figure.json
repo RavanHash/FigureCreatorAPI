@@ -1,0 +1,111 @@
+[
+  {
+    "$type": "FigureCreatorApp.Figures.Triangle, FigureCreatorApp",
+    "Id": 1,
+    "Points": [
+      {
+        "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      {
+        "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+        "X": 0.0,
+        "Y": 4.0
+      },
+      {
+        "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+        "X": 3.0,
+        "Y": 0.0
+      }
+    ],
+    "Center": {
+      "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+      "X": 1.0,
+      "Y": 1.3333333333333333
+    },
+    "Area": 6.0,
+    "Perimetr": 12.0
+  },
+  {
+    "$type": "FigureCreatorApp.Figures.Square, FigureCreatorApp",
+    "Id": 2,
+    "Points": [
+      {
+        "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+        "X": -10.0,
+        "Y": -10.0
+      },
+      {
+        "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+        "X": -10.0,
+        "Y": 15.0
+      },
+      {
+        "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+        "X": 15.0,
+        "Y": 15.0
+      },
+      {
+        "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+        "X": 15.0,
+        "Y": -10.0
+      }
+    ],
+    "Center": {
+      "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+      "X": 2.5,
+      "Y": 2.5
+    },
+    "Area": 500.0,
+    "Perimetr": 100.0
+  },
+  {
+    "$type": "FigureCreatorApp.Figures.Circle, FigureCreatorApp",
+    "Radius": 3.0,
+    "Id": 3,
+    "Points": [
+      {
+        "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      {
+        "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+        "X": 0.0,
+        "Y": 3.0
+      }
+    ],
+    "Center": {
+      "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+      "X": 0.0,
+      "Y": 0.0
+    },
+    "Area": 28.274333882308138,
+    "Perimetr": 18.84955592153876
+  },
+  {
+    "$type": "FigureCreatorApp.Figures.Circle, FigureCreatorApp",
+    "Radius": 4.242640687119285,
+    "Id": 4,
+    "Points": [
+      {
+        "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      {
+        "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+        "X": 3.0,
+        "Y": 3.0
+      }
+    ],
+    "Center": {
+      "$type": "FigureCreatorApp.Figures.Point, FigureCreatorApp",
+      "X": 0.0,
+      "Y": 0.0
+    },
+    "Area": 56.54866776461626,
+    "Perimetr": 26.657297628950193
+  }
+]
